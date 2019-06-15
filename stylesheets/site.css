@@ -1,0 +1,15 @@
+#content {
+  position: relative; }
+  #content a {
+    color: rgba(0, 0, 0, 0.7); }
+    #content a:focus, #content a:hover {
+      color: rgba(0, 0, 0, 0.6); }
+  #content #explain {
+    display: none; }
+  #content #page h1 {
+    font-size: 7mm;
+    margin: 0 auto 0.25em; }
+  #content #page #date {
+    font-size: 4mm;
+    font-weight: bold;
+    padding: 0.25em 0; }
